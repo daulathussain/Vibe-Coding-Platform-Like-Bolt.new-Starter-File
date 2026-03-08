@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/03/Build-Deploy-a-Vibe-Coding-Platform-Like-Bolt.new-Using-Next.js-Supabase-OpenAI-AI-Coding-Project-2026.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-vibe-coding-platform-(like-bolt.new)-using-next.js-supabase-and-openai-or-ai-coding-project-2026)
 
 #### Setup Video
 
